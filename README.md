@@ -1,5 +1,5 @@
 # ClipboardReplace
-Copy, replace, paste.
+A script to edit the clipboard using regular expression with preview of output.
 
 ### Status
 

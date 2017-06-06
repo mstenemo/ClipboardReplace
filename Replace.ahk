@@ -1,9 +1,9 @@
 /*
-Name: Mango: Clipboard Replace
-Version 1.9 (Saturday, April 1, 2017)
+Name: Clipboard Replace
+Info: A plugin for a script by tidbit: Mango
+Version 1.9.1 
 Created: (Thu May 28, 2009)
 Author: tidbit
-Info: A plugin for my personal script: Mango
 */
 
 #singleinstance OFF

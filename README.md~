@@ -11,7 +11,7 @@ Copy text and use this program to find and replace text on your clipboard conten
 ## Installation ##
 ClipboardReplace is built in and is dependent on AutoHotkey to run ClipboardReplace. To download AutoHotkey visit http://www.autohotkey.com/
 
-The easiest way to set up ClipboardReplace is to fork this repository.
+The easiest way to set up ClipboardReplace is to fork this repository. Note that ö
 
 ## Suggest new behaviors
 Please send ideas about new behaviors you would find helpful to the [GitHub issue tracker](https://github.com/mstenemo/ClipboardReplace/issues).

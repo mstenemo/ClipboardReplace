@@ -1,13 +1,28 @@
 # ClipboardReplace #
 ClipboardReplace is a simple, compact, and handy editor of the clipboard that uses regular expression with a preview of the output. 
 
+### Instructions 
+Copy text and use this program to find and replace text on your clipboard contents, no need to open up editor for simple regular expression replacement. Updates in real-time. Supports most common features such as Regex, whole-word-only, case senstivity.
+
+#### Hotkeys 
+"§ & x" means that you click x while holding down §
+§ & 8	open ClipboardReplace 
+
 ## Installation ##
 ClipboardReplace is built in and is dependent on AutoHotkey to run ClipboardReplace. To download AutoHotkey visit http://www.autohotkey.com/
 
 The easiest way to set up ClipboardReplace is to fork this repository. 
 
-### About
-Copy text and use this program to find and replace text on your clipboard contents, no need to open up editor for simple regular expression replacement. Updates in real-time. Supports most common features such as Regex, whole-word-only, case senstivity.
+## Suggest new behaviors
+Please send ideas about new behaviors you would find helpful to the [GitHub issue tracker](https://github.com/madskristensen/DialToolsForVS/issues).
+
+## Contribute
+Check out the [contribution guidelines](.github/CONTRIBUTING.md)
+if you want to contribute to this project.
+
+## License
+[GPL v3](LICENSE)
+
 
 ### Screenshots
 *Screenshots taken with high-contrast OS theme. this program itself is **not** themed*

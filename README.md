@@ -1,15 +1,18 @@
 # ClipboardReplace #
-ClipboardReplace is a simple, compact, and handy editor of the clipboard that uses regular expression with a preview of the output. 
+ClipboardReplace is a simple, compact, and handy editor of the clipboard that uses regular expression with a preview of the output. Great solution when you don't want to leave what you are doing to open up an editor for simple regular expression replacement. Preview Updates in real-time and supports most common features: 
+*Regex
+*Whole-word-only
+*Case senstivity.
 
 ### Instructions 
-Copy text and use this program to find and replace text on your clipboard contents, no need to open up editor for simple regular expression replacement. Updates in real-time. Supports most common features such as Regex, whole-word-only, case senstivity.
+Copy or highlight text and click 8 while holding down the § key. ClipboardReplace will launch showing a preview of what is currently in the clipboard. 
 
 #### Hotkeys 
-"§ & x" means that you click x while holding down §
+"§&x" 	means that you click x while holding down §
+"!x" 	means that you click x while holding down the alt key
  
-
-* § & 8	open ClipboardReplace 
-* !p 		Focus the preview box 
+* §&8	open ClipboardReplace 
+* !p 	Focus the preview box 
 
 ## Installation ##
 ClipboardReplace is built in and is dependent on AutoHotkey to run ClipboardReplace. To download AutoHotkey visit http://www.autohotkey.com/

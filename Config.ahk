@@ -17,3 +17,10 @@ Esc:: ;this is the command to close RegEx replace plugin.
 	return 
 
 #ifwinactive 
+
+Cbreplm()
+	{
+	global 
+	#Include %A_ScriptDir%\Replace.ahk
+	return 
+	}

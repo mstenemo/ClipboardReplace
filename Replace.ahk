@@ -56,7 +56,7 @@ gui, add, edit, x+2 yp  w555 r2 wanttab gPreview vrepwith,
 gui, add, button, xp+160 y+3 w90 h20 vbtnUpdate gupdate Default, &Update Content
 gui, add, button, xp     y+5 w90 h20 vbtnCopy   gcopy, &Copy
  
-gui, add, checkbox, xm  yp-26 h20 gPreview vcs, &Case Sensitive
+gui, add, checkbox, xm  yp-26 h20 gPreview vcs, Ca&se Sensitive
 gui, add, checkbox, x+5 yp    h20 gPreview vwwo, &On Whole Words
 gui, add, checkbox, xm  y+3   h20 gPreview vra 	+Checked, Replace &All?
 gui, add, checkbox, xp  y+3   h20 gPreview vrem	+Checked, Rege&x Mode

@@ -66,7 +66,7 @@ gui, add, button,   x+5 yp    h20 gregexhelp, ?
 ttt:="aaa bbb`nccc aaa`n`nbbb aaaaaaaaaaaaaa"
 gui, font, s12, Verdana
 ; gui, add, edit, x6 y+5 w330 h310 +HScroll vpreviewbox, %ttt%
-gui, add, edit, xm y+5 w330 h310 +HScroll vpreviewbox, %Clipboard% // ClassNN = Edit3 
+gui, add, edit, xm y+5 w330 h310 +HScroll vpreviewbox, %Clipboard% 
  
 gui, rhelp: add, text, y6 x6, Regex Help
 gui, rhelp: add, ListView, yp+22 xp w450 r25 vlist, Key|Description|Example

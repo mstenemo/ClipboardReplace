@@ -6,7 +6,10 @@ Copy text and use this program to find and replace text on your clipboard conten
 
 #### Hotkeys 
 "§ & x" means that you click x while holding down §
-§ & 8	open ClipboardReplace 
+ 
+
+* § & 8	open ClipboardReplace 
+* !p 		Focus the preview box 
 
 ## Installation ##
 ClipboardReplace is built in and is dependent on AutoHotkey to run ClipboardReplace. To download AutoHotkey visit http://www.autohotkey.com/

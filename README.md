@@ -5,7 +5,7 @@ ClipboardReplace is a simple, compact, and handy editor of the clipboard that us
 *Case senstivity.
 
 ### Instructions 
-Copy or highlight text and click 8 while holding down the § key. ClipboardReplace will launch showing a preview of what is currently in the clipboard. 
+Copy or highlight text and click 8 while holding down the § key. ClipboardReplace will launch showing a preview of what is currently in the clipboard. Click !c Once you have made the change to update clipboard and escape to close ClipboardReplace. Use update content (!u) to make subsequent changes.
 
 #### Hotkeys 
 "§&x" 	means that you click x while holding down §
